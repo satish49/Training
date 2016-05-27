@@ -47,7 +47,6 @@ public class FibonacciSeries {
 	 
 	 public  int fibonacciRecursive(int value)
 	 {
-		// System.out.println("valu==e"+value);
 		 //by recursive
 		 if((value==1) || (value==0))
 			 return value;
